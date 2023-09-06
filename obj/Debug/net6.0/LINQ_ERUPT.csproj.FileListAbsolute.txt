@@ -1,0 +1,15 @@
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/bin/Debug/net6.0/LINQ_ERUPT
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/bin/Debug/net6.0/LINQ_ERUPT.deps.json
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/bin/Debug/net6.0/LINQ_ERUPT.runtimeconfig.json
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/bin/Debug/net6.0/LINQ_ERUPT.dll
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/bin/Debug/net6.0/LINQ_ERUPT.pdb
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.csproj.AssemblyReference.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.AssemblyInfoInputs.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.AssemblyInfo.cs
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.csproj.CoreCompileInputs.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.dll
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/refint/LINQ_ERUPT.dll
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.pdb
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/LINQ_ERUPT.genruntimeconfig.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/LINQ_ERUPT/obj/Debug/net6.0/ref/LINQ_ERUPT.dll
